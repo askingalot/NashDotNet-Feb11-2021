@@ -1,4 +1,9 @@
-# Nashville .Net User Group
+**NOTE:** The code found in this repo is as it was at the end of the .net meeting. The GitHub Issue Creator started during the meeting is under development in this repo: https://github.com/askingalot/github-issue-creator
+
+---
+
+
+# Nashville .NET User Group
 
 ## _Feb 11, 2021_
 
